@@ -1,4 +1,4 @@
-m Sudhakar,  pursuing B.Sc in Computer  Science and Engineering. I'm  aspiring Data Scientist, Machine and Deep Learning Engineer.
+I am Sudhakar,  pursuing B.Sc in Computer  Science and Engineering. I'm  aspiring Data Scientist, Machine and Deep Learning Engineer.
 
 For last 1 year i am in the journey of learning about Data Science and it was completely self thought.Having a good amount of knowledge about Data Science life cycle, i have done some complete end to end project on both Machine and Deep learning. 
 
